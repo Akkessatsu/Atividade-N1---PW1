@@ -24,6 +24,10 @@ nav ul li a {
   text-decoration: none;
 }
 
+section {
+  background-color: #AA7A
+}
+
 nav ul li a:hover {
   background-color: #555;
 }
